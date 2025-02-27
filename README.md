@@ -1,4 +1,16 @@
-# CompassApp
-This is application is created in Dart lannguage. It has Two screens.
-First Screen : In this screen you will find a button. When someone click on this button it will ask you for Location Permission. 
-Second Screen : It is the main screen of Compass App where you will find the Compass. 
+# compass_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
